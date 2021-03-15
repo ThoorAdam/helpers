@@ -1,0 +1,31 @@
+{
+  "name": "@thooradam/helpers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "prepare": "npm run build",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "rxjs": "6.6.6"
+  },
+  "devDependencies": {
+    "typescript": "4.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThoorAdam/helpers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ThoorAdam/helpers/issues"
+  },
+  "keywords": [],
+  "author": "Adam Thoor",
+  "license": "ISC",
+  "homepage": "https://github.com/ThoorAdam/helpers#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "description": ""
+}
